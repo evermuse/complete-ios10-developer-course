@@ -12,6 +12,12 @@
 		931053B81DCE7E7E00282A78 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 931053B61DCE7E7E00282A78 /* Main.storyboard */; };
 		931053BA1DCE7E7E00282A78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 931053B91DCE7E7E00282A78 /* Assets.xcassets */; };
 		931053BD1DCE7E7E00282A78 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 931053BB1DCE7E7E00282A78 /* LaunchScreen.storyboard */; };
+		931053CA1DCE7F9B00282A78 /* frame_0_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 931053C41DCE7F9B00282A78 /* frame_0_delay-0.1s.gif */; };
+		931053CB1DCE7F9B00282A78 /* frame_1_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 931053C51DCE7F9B00282A78 /* frame_1_delay-0.1s.gif */; };
+		931053CC1DCE7F9B00282A78 /* frame_2_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 931053C61DCE7F9B00282A78 /* frame_2_delay-0.1s.gif */; };
+		931053CD1DCE7F9B00282A78 /* frame_3_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 931053C71DCE7F9B00282A78 /* frame_3_delay-0.1s.gif */; };
+		931053CE1DCE7F9B00282A78 /* frame_4_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 931053C81DCE7F9B00282A78 /* frame_4_delay-0.1s.gif */; };
+		931053CF1DCE7F9B00282A78 /* frame_5_delay-0.1s.gif in Resources */ = {isa = PBXBuildFile; fileRef = 931053C91DCE7F9B00282A78 /* frame_5_delay-0.1s.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +28,12 @@
 		931053B91DCE7E7E00282A78 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		931053BC1DCE7E7E00282A78 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		931053BE1DCE7E7E00282A78 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		931053C41DCE7F9B00282A78 /* frame_0_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_0_delay-0.1s.gif"; sourceTree = "<group>"; };
+		931053C51DCE7F9B00282A78 /* frame_1_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_1_delay-0.1s.gif"; sourceTree = "<group>"; };
+		931053C61DCE7F9B00282A78 /* frame_2_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_2_delay-0.1s.gif"; sourceTree = "<group>"; };
+		931053C71DCE7F9B00282A78 /* frame_3_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_3_delay-0.1s.gif"; sourceTree = "<group>"; };
+		931053C81DCE7F9B00282A78 /* frame_4_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_4_delay-0.1s.gif"; sourceTree = "<group>"; };
+		931053C91DCE7F9B00282A78 /* frame_5_delay-0.1s.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "frame_5_delay-0.1s.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +69,12 @@
 				931053B21DCE7E7E00282A78 /* AppDelegate.swift */,
 				931053B41DCE7E7E00282A78 /* ViewController.swift */,
 				931053B61DCE7E7E00282A78 /* Main.storyboard */,
+				931053C41DCE7F9B00282A78 /* frame_0_delay-0.1s.gif */,
+				931053C51DCE7F9B00282A78 /* frame_1_delay-0.1s.gif */,
+				931053C61DCE7F9B00282A78 /* frame_2_delay-0.1s.gif */,
+				931053C71DCE7F9B00282A78 /* frame_3_delay-0.1s.gif */,
+				931053C81DCE7F9B00282A78 /* frame_4_delay-0.1s.gif */,
+				931053C91DCE7F9B00282A78 /* frame_5_delay-0.1s.gif */,
 				931053B91DCE7E7E00282A78 /* Assets.xcassets */,
 				931053BB1DCE7E7E00282A78 /* LaunchScreen.storyboard */,
 				931053BE1DCE7E7E00282A78 /* Info.plist */,
@@ -124,8 +142,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				931053BD1DCE7E7E00282A78 /* LaunchScreen.storyboard in Resources */,
+				931053CA1DCE7F9B00282A78 /* frame_0_delay-0.1s.gif in Resources */,
+				931053CB1DCE7F9B00282A78 /* frame_1_delay-0.1s.gif in Resources */,
+				931053CC1DCE7F9B00282A78 /* frame_2_delay-0.1s.gif in Resources */,
 				931053BA1DCE7E7E00282A78 /* Assets.xcassets in Resources */,
+				931053CE1DCE7F9B00282A78 /* frame_4_delay-0.1s.gif in Resources */,
+				931053CF1DCE7F9B00282A78 /* frame_5_delay-0.1s.gif in Resources */,
 				931053B81DCE7E7E00282A78 /* Main.storyboard in Resources */,
+				931053CD1DCE7F9B00282A78 /* frame_3_delay-0.1s.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

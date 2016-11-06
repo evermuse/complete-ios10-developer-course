@@ -43,10 +43,8 @@ class ViewController: UIViewController {
                 } else {
                     
                     if let unwrappedData = data {
-  
-                        // Rob's code ran here. Need to come back to this.
                         
-                        let dataString = NSString(data: unwrappedData, encoding: String.Enconding.utf8.rawValue)
+                        let dataString = NSString(data: unwrappedData, encoding: String.Encoding.utf8.rawValue)
                     
                     print(dataString)
                         

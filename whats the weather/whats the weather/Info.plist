@@ -41,8 +41,9 @@
             <key>weather-forecast.com</key>
             <dict>
                 <key>NSTemporaryExceptionAllowsInsecureHTTPLoads</key>
-                    <true/>
-                    <key>NSIncludesSubdomains</key>
+                <true/>
+                <key>NSIncludesSubdomains</key>
+                <true/>
             </dict>
         </dict>
     </dict>
